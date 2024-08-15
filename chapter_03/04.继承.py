@@ -13,6 +13,7 @@ class Animal:
 # 多继承，如果属性或者方法有重复，以第一个为准，后续不可覆盖
 class Cat(Animal):
 
+
     def eat_fish(self):
         print("猫喜欢吃鱼")
 

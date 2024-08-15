@@ -19,7 +19,6 @@ def sum2(*args):
     for ele in args:
         count += ele
     return count
-
 if __name__ == '__main__':
     print(sum(1,2,3))
 

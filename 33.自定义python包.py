@@ -15,3 +15,6 @@ from chapter_01.fun import sum
 count = sum(1,2,3)
 print(count)
 
+
+
+
